@@ -9,10 +9,13 @@ For this analysis, I used Pandas to clean the .csv file where all the data was s
 
 The full presentation can be found [here](https://public.tableau.com/shared/K9652SWRC?:display_count=n&:origin=viz_share_link).
 
-
-
-
-
+<img src="https://github.com/alexdallman1029/Bike-Sharing/blob/main/imgs/slide1.png" width="500"/><br>
+<img src="https://github.com/alexdallman1029/Bike-Sharing/blob/main/imgs/slide2.png" width="500"/><br>
+<img src="https://github.com/alexdallman1029/Bike-Sharing/blob/main/imgs/slide3.png" width="500"/><br>
+<img src="https://github.com/alexdallman1029/Bike-Sharing/blob/main/imgs/slide4.png" width="500"/><br>
+<img src="https://github.com/alexdallman1029/Bike-Sharing/blob/main/imgs/slide5.png" width="500"/><br>
+<img src="https://github.com/alexdallman1029/Bike-Sharing/blob/main/imgs/slide6.png" width="500"/><br>
+<img src="https://github.com/alexdallman1029/Bike-Sharing/blob/main/imgs/slide7.png" width="500"/>
 
 ## Summary
 Overall, Des Moines could be succcessful operating CitiBikes, especially if they did the following:
